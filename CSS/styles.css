@@ -4,3 +4,10 @@ body{
     margin: 0 auto;
     padding: 20px;
 }
+
+.Inicio{
+    background-color: lightblue;
+    height: 50px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
