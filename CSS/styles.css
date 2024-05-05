@@ -1,13 +1,20 @@
-body{
+body {
     height: 600px;
     width: 800px;
     margin: 0 auto;
     padding: 20px;
 }
 
-.Inicio{
+.Inicio {
     background-color: lightblue;
     height: 50px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.Navegacion{
+    background-color: lightgreen;
+    height: 200px;
     padding: 10px;
     margin-bottom: 10px;
 }
