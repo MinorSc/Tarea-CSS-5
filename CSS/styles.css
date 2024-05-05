@@ -18,3 +18,27 @@ body {
     padding: 10px;
     margin-bottom: 10px;
 }
+
+.Noticias{
+    background-color: lightyellow;
+    height: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+section{
+    border: solid 1px  black;
+    background-color: white;
+}
+
+.Noticias_deportes{
+    background-color: brown;
+    width: 750px;
+    margin: 0 auto;
+}
+
+.Noticias_entretenimiento{
+    background-color:  peru;
+    width: 750px;
+    margin: 0 auto;
+}
