@@ -12,42 +12,48 @@ body {
     margin-bottom: 10px;
 }
 
-.Navegacion{
+.Navegacion {
     background-color: lightgreen;
     height: 200px;
     padding: 10px;
     margin-bottom: 10px;
 }
 
-.Noticias{
+.Noticias {
     background-color: lightyellow;
     height: 300px;
     padding: 10px;
     margin-bottom: 10px;
 }
 
-section{
-    border: solid 1px  black;
+section {
+    border: solid 1px black;
     background-color: white;
 }
 
-.Noticias_deportes{
+.Noticias_deportes {
     background-color: brown;
     width: 750px;
     margin: 0 auto;
 }
 
-.Noticias_entretenimiento{
-    background-color:  peru;
+.Noticias_entretenimiento {
+    background-color: peru;
     width: 750px;
     margin: 0 auto;
 }
 
-.barra_lateral{
+.barra_lateral {
     background-color: lightpink;
     height: 200px;
     width: 200px;
     padding: 10px;
     margin-top: 10px;
+}
 
+.pie_de_pagina {
+    background-color: lightseagreen;
+    height: 50px;
+    padding: 10px;
+    margin-top: 10px
 }
